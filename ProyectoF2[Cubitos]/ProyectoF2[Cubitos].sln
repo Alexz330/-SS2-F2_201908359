@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "ProyectoF2[Cubitos]", "ProyectoF2[Cubitos]\ProyectoF2[Cubitos].dwproj", "{ED9A47E8-0E79-49D0-BD92-22C3E031C3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED9A47E8-0E79-49D0-BD92-22C3E031C3CF}.Development|Default.ActiveCfg = Development
+		{ED9A47E8-0E79-49D0-BD92-22C3E031C3CF}.Development|Default.Build.0 = Development
+		{ED9A47E8-0E79-49D0-BD92-22C3E031C3CF}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B989710-D994-4BF9-A447-D683665E80B4}
+	EndGlobalSection
+EndGlobal
